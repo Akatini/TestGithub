@@ -1,2 +1,2 @@
-# StudentManager
-简易的通过pymysql进行数据存储的python实现的学生管理系统
+# testGithub
+用于学习Github的项目
